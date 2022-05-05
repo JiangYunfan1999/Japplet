@@ -9,7 +9,7 @@ noughts-and-crosses game
 
 ## 文件目录
 - 头文件
-  - test.c 测试整体程序
-  - game.c 游戏实现代码
-- 源文件
   - game.h 包含所有游戏实现函数的头文件
+- 源文件
+  - game.c 游戏实现代码
+  - test.c 测试整体程序
